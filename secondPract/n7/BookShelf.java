@@ -1,4 +1,4 @@
-package secondPract.task7;
+package secondPract.n7;
 
 class BookShelf {
     private Book[] shelf;

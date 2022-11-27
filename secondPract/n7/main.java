@@ -1,4 +1,4 @@
-package secondPract.task7;
+package secondPract.n7;
 
 import java.util.Scanner;
 
