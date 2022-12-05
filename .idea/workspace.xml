@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="1ce100fa-2a62-462b-8b4a-e99be4d58ddd" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/IdeaProjects.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/w6/prak_6.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/w8/prak_8.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/w9/prak_9.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pract_4/clothshop.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pract_4/e411.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pract_4/seasons.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pract_4/shop.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/secondPract/n1/TestAuthor.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/secondPract/n10/HowMany.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/secondPract/n10/Test.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/secondPract/n2/testBall.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/secondPract/n3/Tester.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/secondPract/n4/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/secondPract/n5/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/secondPract/n6/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/secondPract/n7/Book.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/secondPract/n7/BookShelf.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/secondPract/n7/main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/secondPract/n8/Test.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/secondPract/n9/Pk.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sixprac/n1/Movable.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sixprac/n1/MovableCircle.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sixprac/n1/MovablePoint.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sixprac/n1/TestClass.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sixprac/n3/Men.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sixprac/n3/Nameable.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sixprac/n3/TestClass.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sixprac/n3/Women.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sixprac/n4/Computer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sixprac/n4/Priceable.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sixprac/n4/Test.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/w1/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/w1/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/w1/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/w1/out/production/untitled/ru/mirea/it/java/Author.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/w1/out/production/untitled/ru/mirea/it/java/TestAuthor.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/w1/src/Author.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/w1/src/TestAuthor.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/w1/untitled.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/w2/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/w2/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/w2/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/w2/out/production/untitled1/ball.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/w2/out/production/untitled1/testball.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/w2/src/ball.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/w2/src/testball.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/w2/untitled1.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/w3/Tester.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/w4/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/w5/MAin.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/w6/Main.java" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2IP9nsaRlaOyS94IWvXL5IF6GyB" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1ce100fa-2a62-462b-8b4a-e99be4d58ddd" name="Changes" comment="" />
+      <created>1670072522877</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1670072522877</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
