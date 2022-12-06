@@ -8,10 +8,9 @@ public class HappyState extends StudentState {
 
     @Override
     public void get5() {
-        // Выполняем действие открытия двери
-        // 1. Перейти в открытое состояние
+
         this.mStudent.setState(mStudent.getOpenningState());
-        // 2. Открываем дверь
+
         this.mStudent.get5();
     }
 

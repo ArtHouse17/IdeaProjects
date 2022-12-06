@@ -1,6 +1,6 @@
 public abstract class StudentState {
 
-    // Имеем объект лифта, используемый для обновления текущего состояния лифта
+
     protected Lift mStudent;
 
 

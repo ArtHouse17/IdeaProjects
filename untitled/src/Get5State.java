@@ -8,7 +8,7 @@ public class Get5State extends StudentState {
 
     @Override
     public void get5() {
-        // Выполняем действие открытия двери
+
         System.out.println("Получить хорошую оценку");
     }
 
