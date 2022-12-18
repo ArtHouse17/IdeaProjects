@@ -1,7 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1ce100fa-2a62-462b-8b4a-e99be4d58ddd" name="Changes" comment="" />
+    <list default="true" id="1ce100fa-2a62-462b-8b4a-e99be4d58ddd" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.name" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.name" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/untitled/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/untitled/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/untitled/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/untitled/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/untitled/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/untitled/out/production/untitled/FallasleepState.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/untitled/out/production/untitled/Get5State.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/untitled/out/production/untitled/GetGiftState.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/untitled/out/production/untitled/HappyState.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/untitled/out/production/untitled/Lift.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/untitled/out/production/untitled/StudentState.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/untitled/src/FallasleepState.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/untitled/src/Get5State.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/untitled/src/GetGiftState.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/untitled/src/HappyState.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/untitled/src/Lift.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/untitled/src/StudentState.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/untitled/untitled.iml" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
